@@ -1,0 +1,5 @@
+com/sap/cf/odata/spring/context/JPAServiceFactory.class
+com/sap/cf/odata/spring/model/Employee.class
+com/sap/cf/odata/spring/util/SpringContextUtil.class
+com/sap/cf/odata/spring/controller/AppController.class
+com/sap/cf/odata/spring/config/CloudConfig.class
